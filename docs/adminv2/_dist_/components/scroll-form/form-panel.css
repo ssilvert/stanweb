@@ -1,0 +1,4 @@
+.kc-form-panel__panel {
+  margin-top: var(--pf-global--spacer--lg);
+  padding-bottom: var(--pf-global--spacer--2xl);
+}

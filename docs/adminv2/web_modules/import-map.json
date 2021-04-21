@@ -1,0 +1,20 @@
+{
+  "imports": {
+    "@patternfly/react-core": "./@patternfly/react-core.js",
+    "@patternfly/react-icons": "./@patternfly/react-icons.js",
+    "@patternfly/react-table": "./@patternfly/react-table.js",
+    "@storybook/addon-actions": "./@storybook/addon-actions.js",
+    "file-saver": "./file-saver.js",
+    "i18next": "./i18next.js",
+    "keycloak-admin": "./keycloak-admin.js",
+    "lodash": "./lodash.js",
+    "moment": "./moment.js",
+    "react": "./react.js",
+    "react-dom": "./react-dom.js",
+    "react-error-boundary": "./react-error-boundary.js",
+    "react-hook-form": "./react-hook-form.js",
+    "react-i18next": "./react-i18next.js",
+    "react-router-dom": "./react-router-dom.js",
+    "use-react-router-breadcrumbs": "./use-react-router-breadcrumbs.js"
+  }
+}
